@@ -1,12 +1,12 @@
 [submodule "e2tech-api-gateway"]
-	path = e2tech-api-gateway
-	url = https://github.com/2tech-US/e2tech-api-gateway.git
+path = e2tech-api-gateway
+url = https://github.com/2tech-US/e2tech-api-gateway.git
 [submodule "e2tech-auth-svc"]
-	path = e2tech-auth-svc
-	url = https://github.com/2tech-US/e2tech-auth-svc.git
+path = e2tech-auth-svc
+url = https://github.com/2tech-US/e2tech-auth-svc.git
 [submodule "2tech-passenger-svc"]
-	path = 2tech-passenger-svc
-	url = https://github.com/2tech-US/2tech-passenger-svc.git
+path = 2tech-passenger-svc
+url = https://github.com/2tech-US/e2tech-passenger-svc.git
 [submodule "e2tech-booking-svc"]
-	path = e2tech-booking-svc
-	url = https://github.com/2tech-US/e2tech-booking-svc.git
+path = e2tech-booking-svc
+url = https://github.com/2tech-US/e2tech-booking-svc.git
