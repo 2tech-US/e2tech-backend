@@ -4,8 +4,8 @@ url = https://github.com/2tech-US/e2tech-api-gateway.git
 [submodule "e2tech-auth-svc"]
 path = e2tech-auth-svc
 url = https://github.com/2tech-US/e2tech-auth-svc.git
-[submodule "2tech-passenger-svc"]
-path = 2tech-passenger-svc
+[submodule "e2tech-passenger-svc"]
+path = e2tech-passenger-svc
 url = https://github.com/2tech-US/e2tech-passenger-svc.git
 [submodule "e2tech-booking-svc"]
 path = e2tech-booking-svc
