@@ -6,7 +6,7 @@ while :; do
     ! [ "$(docker ps -aq -f status=running -f name=e2tech)" ] || break
     echo waiting
 done
-
+sleep 5
 cd e2tech-auth-svc
 make createdb
 make migrateup
