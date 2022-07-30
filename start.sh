@@ -1,3 +1,5 @@
+#!/bin/bash
+
 cd e2tech-auth-svc && make auth_svc &
 cd ..
 cd 2tech-passenger-svc && make passenger_svc &
