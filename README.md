@@ -14,14 +14,8 @@
 Clone the project
 
 ```bash
-git clone https://github.com/2tech-US/e2tech-backend.git
+git clone --recursive https://github.com/2tech-US/e2tech-backend.git
 cd e2tech-backend
-```
-
-Clone services
-
-```bash
-source init.sh
 ```
 
 Build all service
