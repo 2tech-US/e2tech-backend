@@ -21,23 +21,23 @@ cd e2tech-backend
 Build all service
 
 ```bash
-source up.sh
+make up
 ```
 
 Start server
 
 ```bash
-source start.sh
+make start
 ```
 
 Stop all service:
 
 ```bash
-source stop.sh
+make stop
 ```
 
 When you want to restart all services, use this command line and build again
 
 ```bash
-source down.sh
+make down
 ```

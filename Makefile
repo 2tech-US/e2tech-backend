@@ -1,15 +1,15 @@
 SHELL := /bin/bash
 up:
-	source up.sh
+	cd bin && source ./up.sh
 
 down:
-	source down.sh
+	cd bin && source down.sh
 
 start:
-	source start.sh
+	cd bin && source start.sh
 
 stop:
-	source stop.sh
+	cd bin && source stop.sh
 
 update:
 	git submodule update --remote
