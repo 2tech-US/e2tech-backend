@@ -12,6 +12,8 @@ stop:
 	cd bin && source stop.sh
 
 update:
+	git fetch
+	git pull
 	git submodule update --remote
 
 push:
