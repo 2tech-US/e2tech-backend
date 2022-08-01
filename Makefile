@@ -14,10 +14,10 @@ stop:
 update:
 	git fetch
 	git pull
-	git submodule update --remote
+	git submodule foreach --recursive git pull
 
 push:
-	git submodule update --remote
+	git submodule foreach --recursive git pull
 	git add .
 	git commit -m "backend submodules updated"
 	git push
