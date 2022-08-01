@@ -6,7 +6,7 @@
 - Install [Golang](https://go.dev/doc/install)
 - Install [Docker](https://docs.docker.com/engine/install/)
   - Remember to [add Docker as a non-root user](https://docs.docker.com/engine/install/linux-postinstall/#manage-docker-as-a-non-root-user) when using Linux
-- Install make: `sudo apt install build-essential`
+- Install make: `sudo apt install build-essential` for Linux or `brew install make` for macOS
 - Install [Golang Migrate](https://github.com/golang-migrate/migrate/tree/master/cmd/migrate)
 
 ## Run on locally
