@@ -7,6 +7,7 @@ while :; do
     echo waiting
 done
 sleep 5
+cd ..
 cd e2tech-auth-svc
 make createdb
 make migrateup
