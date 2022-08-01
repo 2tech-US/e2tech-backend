@@ -3,13 +3,13 @@ up:
 	cd bin && source ./up.sh
 
 down:
-	cd bin && source down.sh
+	cd bin && source ./down.sh
 
 start:
-	cd bin && source start.sh
+	cd bin && source ./start.sh
 
 stop:
-	cd bin && source stop.sh
+	cd bin && source ./stop.sh
 
 update:
 	git fetch
