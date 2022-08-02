@@ -10,3 +10,6 @@ url = https://github.com/2tech-US/e2tech-passenger-svc.git
 [submodule "e2tech-booking-svc"]
 path = e2tech-booking-svc
 url = https://github.com/2tech-US/e2tech-booking-svc.git
+[submodule "e2tech-driver-svc"]
+	path = e2tech-driver-svc
+	url = https://github.com/2tech-US/e2tech-driver-svc.git
