@@ -16,6 +16,10 @@ cd e2tech-passenger-svc
 make createdb
 make migrateup
 cd ..
+cd e2tech-driver-svc
+make createdb
+make migrateup
+cd ..
 cd e2tech-booking-svc
 make createdb
 make migrateup
