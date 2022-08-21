@@ -1,4 +1,5 @@
 SHELL := /bin/bash
+GORUSH_ENABLE?=false
 up:
 	cd bin && source ./up.sh
 
