@@ -13,3 +13,9 @@ url = https://github.com/2tech-US/e2tech-booking-svc.git
 [submodule "e2tech-driver-svc"]
 	path = e2tech-driver-svc
 	url = https://github.com/2tech-US/e2tech-driver-svc.git
+[submodule "e2tech-callcenter-svc"]
+	path = e2tech-callcenter-svc
+	url = https://github.com/2tech-US/e2tech-callcenter-svc.git
+[submodule "e2tech-location-svc"]
+	path = e2tech-location-svc
+	url = https://github.com/2tech-US/e2tech-location-svc.git

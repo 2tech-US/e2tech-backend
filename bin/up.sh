@@ -24,3 +24,9 @@ cd e2tech-booking-svc
 make createdb
 make migrateup
 cd ..
+cd e2tech-callcenter-svc
+make createdb
+cd ..
+cd e2tech-location-svc
+make createdb
+cd ..
