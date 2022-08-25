@@ -8,7 +8,6 @@
   - Remember to [add Docker as a non-root user](https://docs.docker.com/engine/install/linux-postinstall/#manage-docker-as-a-non-root-user) when using Linux
 - Install make: `sudo apt install build-essential` for Linux or `brew install make` for macOS
 - Install [Golang Migrate](https://github.com/golang-migrate/migrate/tree/master/cmd/migrate)
-- Install [Gorush](https://github.com/appleboy/gorush#install-from-source)
 
 ## Run on locally
 
